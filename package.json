@@ -1,0 +1,19 @@
+{
+  "name": "rest-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "routes.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^16.6.1",
+    "nodemon": "^2.0.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon routes.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
